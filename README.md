@@ -84,19 +84,19 @@ Gallery
 
 Some example styles:
 
-![Standard](/../screenshots/std.jpg "Standard")
+![Standard](./screenshots/std.jpg "Standard")
 
-![Quad](/../screenshots/quad.jpg "Quadrille")
+![Quad](./screenshots/quad.jpg "Quadrille")
 
-![Hex](/../screenshots/hex.jpg "Hex")
+![Hex](./screenshots/hex.jpg "Hex")
 
-![Dots](/../screenshots/dot.jpg "Dots")
+![Dots](./screenshots/dot.jpg "Dots")
 
-![Light cone](/../screenshots/lightcone.jpg "Light cone")
+![Light cone](./screenshots/lightcone.jpg "Light cone")
 
-![Precocious Engineer](/../screenshots/rosie.png "Precocious Engineer color scheme")
+![Precocious Engineer](./screenshots/rosie.png "Precocious Engineer color scheme")
 
-![Hex Engineer](/../screenshots/hexengineer.png "Hex grid with Engineering Pad color scheme")
+![Hex Engineer](./screenshots/hexengineer.png "Hex grid with Engineering Pad color scheme")
 
 Credits
 -------
